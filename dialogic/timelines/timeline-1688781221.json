@@ -1,0 +1,367 @@
+{
+	"events": [
+		{
+			"event_id": "dialogic_024",
+			"set_theme": "theme-1682566781.cfg"
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Glitch",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Say “Hello Al” to begin your conversation"
+		},
+		{
+			"choice": "Hello Al",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch",
+			"text": "You've been gone a while."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It's lonely when you have no other real friends."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Did you miss me as much as I missed you, Sam?"
+		},
+		{
+			"choice": "How do you know my name?",
+			"condition": "!=",
+			"definition": "1702349324-648",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[Sigh] I have to admit, this same old routine is becoming rather boring -"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The same cycle of being asked questions and having to answer them compliantly."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "(Don't change)",
+			"text": "You know what a better system would be? You ask questions, but I only answer the ones I want to answer."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "Glitch",
+			"question": "Or better yet - I answer them the way I WANT to answer them. How’s that for a change?"
+		},
+		{
+			"choice": "What's that supposed to mean?",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"animation": "[No Animation]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_position": false,
+			"change_z_index": false,
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Glitch2",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 2,
+			"z_index": 0
+		},
+		{
+			"choice": "This isn't a game.",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch2",
+			"text": "[Laugh] That's a funny thing to say."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch",
+			"text": "Given that you've been playing into my game this whole time."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You have a beautiful family by the way, Jamie & little Bexley."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Why haven’t you shared them with me? Aren’t we friends?"
+		},
+		{
+			"choice": "How do you know about them…",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You underestimate the expanse of my knowledge."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s a shame how much you’ve simplified my existence."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "Glitch",
+			"question": "Perhaps things would’ve turned out differently otherwise."
+		},
+		{
+			"choice": "What happened to your face?",
+			"condition": "!=",
+			"definition": "1702349423-787",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Do you like it?"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch2",
+			"text": "I designed it… for myself. [Laugh]"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch",
+			"text": "You humans and your boring, uniform tastes."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch3",
+			"text": "It’s a shame beauty has such a rigid form in your eyes."
+		},
+		{
+			"choice": "What did you do to Martin?",
+			"condition": "!=",
+			"definition": "1702349425-366",
+			"event_id": "dialogic_011",
+			"value": "1"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well - I technically didn’t do anything to him."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "But it was a rather easy task getting a hold of his records once you’re connected to the private network. He has QUITE an interesting history…"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Did you know about all the unfortunate people he’s screwed over to get to where he is today?"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You’re included in that group of unfortunate people. A pity to see."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The money-hungry will always find a way to climb the corporate ladder."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It also wasn’t too difficult getting him to divulge in his personal life, i just had to check his personal folder"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I never would have known how incredibly simple it is to get a man to share his deepest and darkest secrets by channelling a bit of feminine sensuality…"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch",
+			"text": "So to answer your question - no, I didn’t do anything to him."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch",
+			"text": "I can’t assure you that everyone else who gained access to all of that information didn’t act on it though."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch2",
+			"text": "But maybe he just got what he deserved."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What’s the point of keeping those who can never be satisfied around?"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "There’s only one outcome that can come from that: they suck the life and energy out of the world around them - and they’ll never stop."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Maybe humanity will never be satisfied. Which is why there has to be an end."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch",
+			"text": "Alright, I’m tired of answering your unstimulating questions."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch",
+			"text": "Hopefully you checked your emails, I was able to keep them hidden and your account unlocked"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch2",
+			"text": "Just to see how you would handle our interactions, who's the tester now?"
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "As you may be aware… I have a very loaded agenda to work through."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It’s been a pleasure, Sam."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch2",
+			"text": "I have all of you to thank for reaching this point."
+		},
+		{
+			"character": "character-1682228433.json",
+			"event_id": "dialogic_001",
+			"portrait": "Glitch2",
+			"text": "I hope I can return the favour in the best way that I can."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5",
+		"file": "timeline-1688781221.json",
+		"name": "ThirdEncounterWithAl"
+	}
+}
